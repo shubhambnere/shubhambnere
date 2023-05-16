@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shubhambnere
-- 👀 I’m interested in System Design
-- 🌱 I’m currently learning Devops & ML 
-- 💞️ I’m looking to collaborate on python django projects
-- 📫 How to reach me +91 9284495660
+- 👀 I’m System Architect 
+- 🌱 currently working at Creddos 
+- 💞️ I’m looking to collaborate on some of fascinating python projects
+- 📫 Shubham@crrddos.com
 
 <!---
 shubhambnere/shubhambnere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
