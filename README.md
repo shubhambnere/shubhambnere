@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhambnere
 - 👀 I’m System Architect 
-- 🌱 currently working at Creddos 
+- 🌱 Currently working at Creddos 
 - 💞️ I’m looking to collaborate on some of fascinating python projects
 - 📫 Shubham@creddos.com
 
