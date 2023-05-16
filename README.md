@@ -2,7 +2,7 @@
 - 👀 I’m System Architect 
 - 🌱 currently working at Creddos 
 - 💞️ I’m looking to collaborate on some of fascinating python projects
-- 📫 Shubham@crrddos.com
+- 📫 Shubham@creddos.com
 
 <!---
 shubhambnere/shubhambnere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
